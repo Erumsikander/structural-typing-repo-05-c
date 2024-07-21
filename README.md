@@ -1,0 +1,1 @@
+# structural-typing-repo-05-c
